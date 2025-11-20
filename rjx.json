@@ -15,6 +15,6 @@
         "device_id": "6410f004d8c31209",
         "key": "rjx-24h",
         "expirydate": "21-11-2025",
-        "Allowoffline": false
+        "Allowoffline":true
     }
 ]
